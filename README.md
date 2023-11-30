@@ -1,5 +1,5 @@
 ﻿# VK_ID-Parser
-![VK_ID-Parser](https://raw.githubusercontent.com/xqll5559/VK_ID-Parser/main/cover.png)
+![VK_ID-Parser](vk_parser.PNG)
 
 Этот проект представляет собой инструмент для парсинга и сохранения id пользователей VK из указанной группы.
 
