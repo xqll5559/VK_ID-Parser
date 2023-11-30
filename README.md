@@ -23,5 +23,5 @@ groupid = #id группы
 ```bash
 python main.py
 ```
-
+## Список всех ид сохраняется: VKid.txt 
 
